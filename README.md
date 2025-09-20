@@ -96,4 +96,4 @@ Marketing-Mix-Model/
 ---
 
 ## 👨‍💻 Author
-Developed by **Shardul / Shashwat1001**  
+Developed by **Shashwat1001**  
