@@ -9,7 +9,12 @@ Each row contains the Volume of Sales for a week and different campaigning infor
 
 The information about that product and the years to which this data belongs are unknown.
 
-
+#python create env
+##Requirements
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
 
 # Marketing Mix Model Evaluation (UI)
 
